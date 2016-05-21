@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body background="Flat-Ocean.jpeg">
+    <a href="file:///C:/Users/%D0%94%D0%B8%D0%B0%D0%BD%D0%B0/Desktop/bootstrap/free.html"><img src="2-Hot-Home-icon.png" style="positon:absolute; width:80px;height:50px;margin-left:1200px;margin-top:5px"></a>
+    <h1 style="font-size:45px;position:absolute; margin-left:300px;font-family:serif; color:black">Books</h1>
+    <img src="pragprog-238x300.jpg" style="margin-top:100px; height:200px; width:160px; margin-left:50px;position:relative">
+
+    <div style="margin-left:250px;margin-top:-200px; width:640px; height:200px; position:relative; background-color:white;padding:3px;color:black; font-family:serif"><b>Ward Cunningham Straight from the programming trenches, The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and youll learn how to *Fight software rot; *Avoid the trap of duplicating knowledge; *Write flexible, dynamic, and adaptable code; *Avoid programming by coincidence; *Bullet-proof your code with contracts, assertions, and exceptions; *Capture real requirements; *Test ruthlessly and effectively; *Delight your users; *Build teams of pragmatic programmers; and *Make your developments more precise with automation. Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. Whether youre a new coder, an experienced programm</b></div>
+    <br>
+    <img src="whats-left-of-me.jpg" style="margin-top:5px; height:200px; width:160px; margin-left:50px;position:relative">
+    <div style="margin-left:250px;margin-top:-200px; width:640px; height:200px; position:relative; background-color:white;padding:3px;color:black;font-family:serif"><b>Eva and Addie started out the same way as everyone else—two souls woven together in one body, taking turns controlling their movements as they learned how to walk, how to sing, how to dance. But as they grew, so did the worried whispers. Why aren’t they settling? Why isn’t one of them fading? The doctors ran tests, the neighbors shied away, and their parents begged for more time. Finally Addie was pronounced healthy and Eva was declared gone. Except, she wasn’t . . .
+    For the past three years, Eva has clung to the remnants of her life. Only Addie knows she’s still there, trapped inside their body. Then one day, they discover there may be a way for Eva to move again. The risks are unimaginable-hybrids are considered a threat to society, so if they are caught, Addie and Eva will be locked away with the others. And yet . . . for a chance to smile, to twirl, to speak, Eva will do anything.</b></div><br>
+    <img src="artoffalling-APA-web.jpg" style="margin-top:5px; height:200px; width:160px; margin-left:50px">
+    <div style="margin-left:250px;margin-top:-200px; width:640px; height:200px; position:relative; background-color:white;padding:3px;color:black;font-family:serif"><b>Inspiring, unflinchingly honest, and laugh out loud hilarious, The Elegant Art of Falling Apart shows us how, sometimes, we have to lose everything to understand that the moment is all we have. And living that moment with style, grace and a damn good lipstick is all that matters.
+    Jessica Jones had a complicated life. Booze, cocaine, bad boyfriends – it was a rollercoaster ride of what self help writers call ‘opportunities for growth’ But she got way from all that. She rebuilt her career, became prosperous and, at last, found happiness in a wonderful, new relationship. 
+    Just when things were almost perfect... she learned that she had breast cancer. Jessica did what she’s always done, she got through it. After seven months of gruelling treatments she travelled from London to Sydney to begin a three-month holiday of a lifetime with her gorgeous man - only to find herself plunged into a different, and totally unexpected, life crisis. 
+
+</b></div>
+    <div style="width:70%; height:60px;margin-left:170px; margin-top:50px;font-size:25px; color:black">
+
+      <a href="#" style="color:black"><b>1</b></a>   <a href="#" style="color:black"><b>2</b></a>    <a href="#" style="color:black"><b>3</b></a>   <a href="#" style="color:black"><b>>>></b></a>
+    </div>
+  </body>
+  </html>
